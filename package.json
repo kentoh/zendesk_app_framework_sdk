@@ -1,5 +1,5 @@
 {
-  "name": "zendesk_app_framework_sdk",
+  "name": "@kentoh/zendesk_app_framework_sdk",
   "version": "2.0.37",
   "main": "build/zaf_sdk.min.js",
   "description": "The Zendesk App Framework (ZAF) SDK is a JavaScript library that simplifies cross-frame communication between iframed apps and ZAF.",
