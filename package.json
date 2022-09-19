@@ -15,7 +15,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/zendesk/zendesk_app_framework_sdk.git"
+    "url": "git://github.com/kentoh/zendesk_app_framework_sdk.git"
   },
   "licenses": [
     {
